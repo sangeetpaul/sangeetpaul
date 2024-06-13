@@ -1,4 +1,4 @@
-Hi! I’m Sangeet, a computational astrophysicist. I study black holes using gravitational waves.
+Hi! I’m Sangeet, a computational astrophysicist. I study black holes using gravitational waves. I love solving problems.
 
 You can reach me at sangeetpaul@gmail.com.
 

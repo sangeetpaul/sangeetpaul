@@ -1,6 +1,6 @@
 Hi! I’m Sangeet, a computational astrophysicist. I study black holes using gravitational waves. I love solving problems.
 
-[Here's my resume](resume.pdf). You can reach me at sangeetpaul@gmail.com.
+You can reach me at <sangeetpaul@gmail.com>. Visit [sangeetpaul.github.io](https://sangeetpaul.github.io/) for more about me.
 
 <!---
 sangeetpaul/sangeetpaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
